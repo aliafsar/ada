@@ -1,0 +1,7 @@
+{
+"name": "Love2Stake",
+"ticker": "LOVE2",
+"description": "Love2Stake then join our pool with 0% fee until Jan 2021/Epoch 240, 1% moving forward.",
+"homepage": "https://love2stake.com",
+"extended": "http://pool.love2stake.com:8080/love2stake-extended.json"
+}
