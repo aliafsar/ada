@@ -1,7 +1,7 @@
 {
-"name": "Love2Stake",
+"name": "Love2Stake: 0.00% Fee & 100% Rewards",
 "ticker": "LOVE2",
-"description": "Best Cardano Stake Pool. 0% fee for life. Let's make the world better for all.",
+"description": "0.00% Fee for life. Let's make the world better for all.",
 "homepage": "https://love2stake.com",
 "extended": "https://raw.githubusercontent.com/aliafsar/ada/master/l2sx.json"
 }
